@@ -1,6 +1,6 @@
 package LinkedList;
 import java.util.Scanner;
-class Node {
+class Node2 {
     int data;
     Node2 next;
     public Node(int data) {
